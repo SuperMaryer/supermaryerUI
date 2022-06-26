@@ -2,11 +2,11 @@
 卡片组件
 
 #### 示例
-<card imgSrc="/vue.png" summary="text" />
+<card imgSrc="/supermaryerUi/vue.png" summary="text" />
 
 #### 代码
 ```html
-<card imgSrc="/vue.png" summary="text" />
+<card imgSrc="/supermaryerUi/vue.png" summary="text" />
 ```
 
 #### Attributes

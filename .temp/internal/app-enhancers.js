@@ -1,6 +1,6 @@
 import m0 from "D:\\hxf-project\\001-learn\\supermaryer-ui\\.temp\\app-enhancers\\0.js"
 import m1 from "D:\\hxf-project\\001-learn\\supermaryer-ui\\.temp\\app-enhancers\\data-block.js"
-import m2 from "D:\\hxf-project\\001-learn\\supermaryer-ui\\.temp\\app-enhancers\\global-components-18.js"
+import m2 from "D:\\hxf-project\\001-learn\\supermaryer-ui\\.temp\\app-enhancers\\global-components-1.js"
 import m3 from "D:\\hxf-project\\001-learn\\supermaryer-ui\\.temp\\app-enhancers\\1.js"
 
 export default [
